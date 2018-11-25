@@ -27,5 +27,4 @@ Jupyter Notebook  - ChangesAnalysisv02.ipynb - Analysis exercise
 
 
 Python Code       - ChangesAnalysisv02.py    - Output from Jupyter Notebook (not used)
-.
-.
+
